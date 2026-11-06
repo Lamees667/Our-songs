@@ -1,0 +1,15 @@
+{
+  "name": "our-songs",
+  "version": "1.0.0",
+  "description": "Our songs Discord music bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.18.0",
+    "discord.js": "^14.19.3",
+    "play-dl": "^1.9.7",
+    "dotenv": "^16.4.7"
+  }
+}
